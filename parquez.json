@@ -1,0 +1,104 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.074046, 
+          "lon": -96.757219
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazabella.png"
+      },
+      "id": 1, 
+      "text": {
+        "title": "Plaza Bella"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0782882,
+          "lon": -96.7189187
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazamazari.png"
+      },
+      "id": 2, 
+      "text": {
+        "title": "Plaza Mazari"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat":  17.039358,
+          "lon": -96.711961
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazadelvalle.png"
+      },
+      "id": 3, 
+      "text": {
+        "title": "Plaza del Valle"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.042667,
+          "lon": -96.715386
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazaoaxaca.png"
+      },
+      "id": 4, 
+      "text": {
+        "title": "Plaza Oaxaca"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.076224, 
+          "lon": -96.751191
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazarivera.png"
+      },
+      "id": 5, 
+      "text": {
+        "title": "Plaza la Rivera"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.065409,
+          "lon": -96.723856
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazastodomingo.png"
+      },
+      "id": 6, 
+      "text": {
+        "title": "Plaza Sto. Domingo"
+      }
+    }
+  
+  ], 
+  "layer": "ccomercialqo6q"
+}
